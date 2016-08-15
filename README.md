@@ -140,4 +140,4 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
 -----------
 
-###未完待续，具体使用稍后会在Blog补上
+##docs:http://blog.csdn.net/ddwhan0123/article/details/52213063
