@@ -2,16 +2,16 @@
 
 半透明视图引导页<br>
 
-###作者：王亟亟
+### 作者：王亟亟
 
-###blog:http://blog.csdn.net/ddwhan0123
+### blog:http://blog.csdn.net/ddwhan0123
 
 #### 效果图
 <img src="https://github.com/ddwhan0123/GuiderLayout/blob/master/Screen/one.png?raw=true" width="30%"/><br>
 <br>
 <img src="https://github.com/ddwhan0123/GuiderLayout/blob/master/Screen/two.png?raw=true" width="30%"/><br>
 <br>
-###如何使用?<br>
+### 如何使用?<br>
 布局部分
 ```Java
 <?xml version="1.0" encoding="utf-8"?>
@@ -140,4 +140,4 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
 -----------
 
-##docs:http://blog.csdn.net/ddwhan0123/article/details/52213063
+## docs:http://blog.csdn.net/ddwhan0123/article/details/52213063
